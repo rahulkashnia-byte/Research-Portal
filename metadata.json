@@ -1,0 +1,6 @@
+{
+  "name": "Children Ad Recall Survey",
+  "description": "An interactive, pediatric-friendly ad recall and purchase intention research survey with sequential video playback, a 5-point Likert scale, and Google Sheets submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
